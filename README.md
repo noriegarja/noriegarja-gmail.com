@@ -1,6 +1,7 @@
 # Course Project: Shiny Application
-Above you will find the iu.R and server.R files
-Please find details about my Course Project: Shiny Application and Reproducible Pitch
+In this Repsoitory you will find the iu.R and server.R files
+
+Following find details about my Course Project: Shiny Application and Reproducible Pitch
 
 The link to the Application
 
