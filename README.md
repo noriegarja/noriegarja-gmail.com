@@ -5,7 +5,7 @@ Following find details about my Course Project: Shiny Application and Reproducib
 
 The link to the Application:[Web App](https://noriegarja.shinyapps.io/CourseraAssignment/)
 
-The link to the Pitch:[Pitch Link](https://rpubs.com/noriegarja/589245)
+The link to the Pitch:[Pitch Link](https://rpubs.com/noriegarja/589858)
 
 Thank you for your evaluation.
 
